@@ -1,0 +1,1 @@
+// Simulated content for handlers.js

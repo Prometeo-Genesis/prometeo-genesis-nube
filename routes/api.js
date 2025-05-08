@@ -1,0 +1,1 @@
+// Simulated content for api.js
